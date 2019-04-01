@@ -1,0 +1,32 @@
+#tree
+#base
+line
+220 5 0 280 5 0
+line
+220 5 0 220 300 0
+line
+280 5 0 280 300 0
+line
+220 300 0 280 300 0
+#top
+sphere
+250 325 0 25
+#leaves
+torus
+250 325 0 25 100
+torus
+250 350 0 25 75
+torus
+250 375 0 25 50
+torus
+250 300 0 25 25
+torus
+250 275 0 25 125
+torus
+250 250 0 25 150
+torus
+250 225 0 25 175
+sphere
+250 400 0 50
+save
+image.png
